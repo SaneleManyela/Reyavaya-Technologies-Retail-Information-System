@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Supp_id</Data></Cell>
+			<Cell><Data ss:Type="String">Supp_name</Data></Cell>
+			<Cell><Data ss:Type="String">Supp_address</Data></Cell>
+			<Cell><Data ss:Type="String">Supp_contact</Data></Cell>
+			<Cell><Data ss:Type="String">Supp_email</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">AMD</Data></Cell>
+			<Cell><Data ss:Type="String">14 Tech Drive</Data></Cell>
+			<Cell><Data ss:Type="String">0417768976</Data></Cell>
+			<Cell><Data ss:Type="String">amd@amd.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Volkano</Data></Cell>
+			<Cell><Data ss:Type="String">776 Volcano Mountain drive</Data></Cell>
+			<Cell><Data ss:Type="String">0877765654</Data></Cell>
+			<Cell><Data ss:Type="String">volkano@volkano.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Asus</Data></Cell>
+			<Cell><Data ss:Type="String">6th Floor Twin Towers West
+Sandton City
+Sandton 2194</Data></Cell>
+			<Cell><Data ss:Type="String">0115041300</Data></Cell>
+			<Cell><Data ss:Type="String">www.vip@asus.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">MSI</Data></Cell>
+			<Cell><Data ss:Type="String">200 Bram Fischer Drive
+Randburg
+Gauteng 2194</Data></Cell>
+			<Cell><Data ss:Type="String">0115041300</Data></Cell>
+			<Cell><Data ss:Type="String">info@pcexpress.co.za</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Intel</Data></Cell>
+			<Cell><Data ss:Type="String">Western Service Rd
+Woodland Off Park
+Bld 14
+2128</Data></Cell>
+			<Cell><Data ss:Type="String">0118064530</Data></Cell>
+			<Cell><Data ss:Type="String">intel@southafrica@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">BioStart</Data></Cell>
+			<Cell><Data ss:Type="String">18 Donkeyn Park
+Central
+Port Elizabeth</Data></Cell>
+			<Cell><Data ss:Type="String">0472457809</Data></Cell>
+			<Cell><Data ss:Type="String">computers@biostart.co.za</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">AsRock</Data></Cell>
+			<Cell><Data ss:Type="String">12 Diamond Drive
+Kimberly</Data></Cell>
+			<Cell><Data ss:Type="String">0743584201</Data></Cell>
+			<Cell><Data ss:Type="String">asrockpcs@yahoo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Seagate</Data></Cell>
+			<Cell><Data ss:Type="String">14 Toyandouh Drive
+Limpopo</Data></Cell>
+			<Cell><Data ss:Type="String">0769780761</Data></Cell>
+			<Cell><Data ss:Type="String">seadatepcs@yahoo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Western Digital</Data></Cell>
+			<Cell><Data ss:Type="String">14 Toyandouh Drive
+Limpopo</Data></Cell>
+			<Cell><Data ss:Type="String">0769780761</Data></Cell>
+			<Cell><Data ss:Type="String">westerndigital@yahoo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Toshiba</Data></Cell>
+			<Cell><Data ss:Type="String">56 Glen Avenue
+Johannesburg</Data></Cell>
+			<Cell><Data ss:Type="String">0789765432</Data></Cell>
+			<Cell><Data ss:Type="String">toshibacomputer@toshiba.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Verbatim</Data></Cell>
+			<Cell><Data ss:Type="String">97 Cape Road
+Port Elizabeth
+6001</Data></Cell>
+			<Cell><Data ss:Type="String">0476432123</Data></Cell>
+			<Cell><Data ss:Type="String">verbatim@productinfo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Dell</Data></Cell>
+			<Cell><Data ss:Type="String">985 Sandton City
+Sandton</Data></Cell>
+			<Cell><Data ss:Type="String">0112345678</Data></Cell>
+			<Cell><Data ss:Type="String">dellelectronics@dellza.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Kingston</Data></Cell>
+			<Cell><Data ss:Type="String">34 Scorpio Drive
+</Data></Cell>
+			<Cell><Data ss:Type="String">0215467890</Data></Cell>
+			<Cell><Data ss:Type="String">kingstonDrives@sasubsidiary.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Arctic Freezer</Data></Cell>
+			<Cell><Data ss:Type="String">56 Cold Drive
+</Data></Cell>
+			<Cell><Data ss:Type="String">0811235479</Data></Cell>
+			<Cell><Data ss:Type="String">arctic@fans.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">45 Clement Cresc</Data></Cell>
+			<Cell><Data ss:Type="String">0876432579</Data></Cell>
+			<Cell><Data ss:Type="String">hpsouthafrica@hp.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Logitech</Data></Cell>
+			<Cell><Data ss:Type="String">67 Electronics Drive</Data></Cell>
+			<Cell><Data ss:Type="String">0796578769</Data></Cell>
+			<Cell><Data ss:Type="String">logitechdevices@mail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Microsoft </Data></Cell>
+			<Cell><Data ss:Type="String">12 Microsoft HQ
+Sandton
+Johannesburg</Data></Cell>
+			<Cell><Data ss:Type="String">0112789548</Data></Cell>
+			<Cell><Data ss:Type="String">MicrosoftZA@outlook.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">SanDisk</Data></Cell>
+			<Cell><Data ss:Type="String">123 SanDisk HQ
+	</Data></Cell>
+			<Cell><Data ss:Type="String">0188720299</Data></Cell>
+			<Cell><Data ss:Type="String">sandiskmemorycards@sandisk.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Transcend</Data></Cell>
+			<Cell><Data ss:Type="String">456 Transcend HQ
+	</Data></Cell>
+			<Cell><Data ss:Type="String">0188720299</Data></Cell>
+			<Cell><Data ss:Type="String">Transcendcards@transcend.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake System Units</Data></Cell>
+			<Cell><Data ss:Type="String">23 Ashes Rise</Data></Cell>
+			<Cell><Data ss:Type="String">0124345689</Data></Cell>
+			<Cell><Data ss:Type="String">thermaltakecases@phoenixpc.co.za</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">DMG Lumiere</Data></Cell>
+			<Cell><Data ss:Type="String">DMG Technologies 
+130 bis rue Baraban 
+Lyon, France 
+69003</Data></Cell>
+			<Cell><Data ss:Type="String">0981039988</Data></Cell>
+			<Cell><Data ss:Type="String">mailto:saleslyon@rosco.com</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Prod_id</Data></Cell>
+			<Cell><Data ss:Type="String">Prod_Name</Data></Cell>
+			<Cell><Data ss:Type="String">Brand</Data></Cell>
+			<Cell><Data ss:Type="String">Supp_name</Data></Cell>
+			<Cell><Data ss:Type="String">Purchased_price</Data></Cell>
+			<Cell><Data ss:Type="String">Selling_price</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">AMD A4 CPU</Data></Cell>
+			<Cell><Data ss:Type="String">A4</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4000</Data></Cell>
+			<Cell><Data ss:Type="Number">4500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Volkano 32 GB Memory Card</Data></Cell>
+			<Cell><Data ss:Type="String">Volkano</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+			<Cell><Data ss:Type="Number">150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Asus Prime X570-P Motherboard</Data></Cell>
+			<Cell><Data ss:Type="String">ASUS X570-P</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">2924</Data></Cell>
+			<Cell><Data ss:Type="Number">3150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Asus Prime B450M-K Motherboard</Data></Cell>
+			<Cell><Data ss:Type="String">ASUS B450M-K</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">1708</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Asus B360M-PLUS Motherboard</Data></Cell>
+			<Cell><Data ss:Type="String">ASUS B360M</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4923</Data></Cell>
+			<Cell><Data ss:Type="Number">5300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Intel S1200SPL Motherboard</Data></Cell>
+			<Cell><Data ss:Type="String">Intel S1200SPL</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">4400</Data></Cell>
+			<Cell><Data ss:Type="Number">4800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">MSI H110M Pro-VH Motherboard</Data></Cell>
+			<Cell><Data ss:Type="String">MSI</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">1029</Data></Cell>
+			<Cell><Data ss:Type="Number">1300</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Biostar TB250-BTC PRO Motherboard</Data></Cell>
+			<Cell><Data ss:Type="String">Biostar</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">1272</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">AMD Ryzen 7 1800X CPU</Data></Cell>
+			<Cell><Data ss:Type="String">AMD Ryzen 18X</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">5383</Data></Cell>
+			<Cell><Data ss:Type="Number">5800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">AMD Ryzen 7 1700X CPU</Data></Cell>
+			<Cell><Data ss:Type="String">AMD Ryzen 17x</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">4926</Data></Cell>
+			<Cell><Data ss:Type="Number">5500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Intel Core i7-6900K CPU</Data></Cell>
+			<Cell><Data ss:Type="String">Intel</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">15696</Data></Cell>
+			<Cell><Data ss:Type="Number">16000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">AMD FX-9370 CPU</Data></Cell>
+			<Cell><Data ss:Type="String">AMD</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">3660</Data></Cell>
+			<Cell><Data ss:Type="Number">4000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Verbatim 44084 64 GB Memory Card</Data></Cell>
+			<Cell><Data ss:Type="String">Verbatim</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">190</Data></Cell>
+			<Cell><Data ss:Type="Number">220</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Transcend JetDrive Lite 130 Memory Card</Data></Cell>
+			<Cell><Data ss:Type="String">Transcend</Data></Cell>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="Number">875</Data></Cell>
+			<Cell><Data ss:Type="Number">920</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">SanDisk SDSDQM-032G-B35A Memory Card</Data></Cell>
+			<Cell><Data ss:Type="String">SanDisk</Data></Cell>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+			<Cell><Data ss:Type="Number">150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Arctic Freezer A30 CPU Fan</Data></Cell>
+			<Cell><Data ss:Type="String">Arctic Freezer</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">480</Data></Cell>
+			<Cell><Data ss:Type="Number">680</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Arctic Freezer 33 CPU Fan</Data></Cell>
+			<Cell><Data ss:Type="String">Arctic Freezer 33</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">1509</Data></Cell>
+			<Cell><Data ss:Type="Number">1800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Intel 1300W Psu Titanium Power Supply Unit</Data></Cell>
+			<Cell><Data ss:Type="String">Intel 1300W</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5816</Data></Cell>
+			<Cell><Data ss:Type="Number">6500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Asus ROG-THOR-1200P Power Supply Unit</Data></Cell>
+			<Cell><Data ss:Type="String">Asus ROG-THOR-1200P</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6491</Data></Cell>
+			<Cell><Data ss:Type="Number">7000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="String">Seagate ST1000NM008 Hard Drive</Data></Cell>
+			<Cell><Data ss:Type="String">Seagate</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">1515</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">Western Digital 4 TB WD40EZRZ Hard Drive</Data></Cell>
+			<Cell><Data ss:Type="String">Western Digital</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">1995</Data></Cell>
+			<Cell><Data ss:Type="Number">2500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">24</Data></Cell>
+			<Cell><Data ss:Type="String">Seagate 2 TB ST2000NX0253 Hard Drive</Data></Cell>
+			<Cell><Data ss:Type="String">Seagate ST2000</Data></Cell>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="Number">5353</Data></Cell>
+			<Cell><Data ss:Type="Number">5800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String">Dell 400-AEGC Hard Drive</Data></Cell>
+			<Cell><Data ss:Type="String">Dell 400-AEGC</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">5182</Data></Cell>
+			<Cell><Data ss:Type="Number">5600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">26</Data></Cell>
+			<Cell><Data ss:Type="String">Dell 400-AJRR Hard Drive</Data></Cell>
+			<Cell><Data ss:Type="String">Dell 400-AJRR</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">2961</Data></Cell>
+			<Cell><Data ss:Type="Number">3500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="String">Western Digital 1 TB WD10EFRX Hard Drive</Data></Cell>
+			<Cell><Data ss:Type="String">Western Digital WD10</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">1072</Data></Cell>
+			<Cell><Data ss:Type="Number">1500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">28</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake Suppresor F31 Chasis</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake F31</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1593</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">29</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake CA-1H8-00M1WN-00 Chasis</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake CA-1H8</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1532</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">30</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake CA-1I9-00F1WN-00 Chasis</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake Thermaltake CA-1I9</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">5965</Data></Cell>
+			<Cell><Data ss:Type="Number">6500</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">31</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake CA-1H7-00M1WN-00 Chasis</Data></Cell>
+			<Cell><Data ss:Type="String">Thermaltake Thermaltake CA-1H7</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">1337</Data></Cell>
+			<Cell><Data ss:Type="Number">2800</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">32</Data></Cell>
+			<Cell><Data ss:Type="String">Dell P2419H  Monitor Screen</Data></Cell>
+			<Cell><Data ss:Type="String">Dell P2419H</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1814</Data></Cell>
+			<Cell><Data ss:Type="Number">2400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">33</Data></Cell>
+			<Cell><Data ss:Type="String">Dell P2319H  Monitor Screen</Data></Cell>
+			<Cell><Data ss:Type="String">Dell P2319H</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1576</Data></Cell>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">34</Data></Cell>
+			<Cell><Data ss:Type="String">HP EliteDisplay E243i  Monitor Screen</Data></Cell>
+			<Cell><Data ss:Type="String">HP EliteDisplay E243i</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">2793</Data></Cell>
+			<Cell><Data ss:Type="Number">3100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="String">Logitech MK270 Keyboards/Mouse</Data></Cell>
+			<Cell><Data ss:Type="String">Logitech MK270</Data></Cell>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="Number">411</Data></Cell>
+			<Cell><Data ss:Type="Number">520</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">36</Data></Cell>
+			<Cell><Data ss:Type="String">Dell KM636 Keyboards/Mouse</Data></Cell>
+			<Cell><Data ss:Type="String">Dell KM636</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">480</Data></Cell>
+			<Cell><Data ss:Type="Number">580</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">37</Data></Cell>
+			<Cell><Data ss:Type="String">Microsoft Wired Desktop 600 Keyboards/Mouse</Data></Cell>
+			<Cell><Data ss:Type="String">Microsoft Wired Desktop 600</Data></Cell>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="Number">403</Data></Cell>
+			<Cell><Data ss:Type="Number">510</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">38</Data></Cell>
+			<Cell><Data ss:Type="String">HP T6T83AA Keyboards/Mouse</Data></Cell>
+			<Cell><Data ss:Type="String">HP T6T83AA</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">497</Data></Cell>
+			<Cell><Data ss:Type="Number">550</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="String">Maxi Mix Double Yoke Power Supply Unit</Data></Cell>
+			<Cell><Data ss:Type="String">MAXI-PSU-MIX</Data></Cell>
+			<Cell><Data ss:Type="Number">21</Data></Cell>
+			<Cell><Data ss:Type="Number">7500</Data></Cell>
+			<Cell><Data ss:Type="Number">8000</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

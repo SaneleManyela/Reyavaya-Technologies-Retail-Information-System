@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Cus_id</Data></Cell>
+			<Cell><Data ss:Type="String">Cus_Name</Data></Cell>
+			<Cell><Data ss:Type="String">Cus_address</Data></Cell>
+			<Cell><Data ss:Type="String">Cus_contact</Data></Cell>
+			<Cell><Data ss:Type="String">Cus_email</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Customer</Data></Cell>
+			<Cell><Data ss:Type="String">74736 New Life</Data></Cell>
+			<Cell><Data ss:Type="String">0783050637</Data></Cell>
+			<Cell><Data ss:Type="String">cussy@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Rivhuwa Rivongo</Data></Cell>
+			<Cell><Data ss:Type="String">445 Thoyandou 
+Venda</Data></Cell>
+			<Cell><Data ss:Type="String">0820514466</Data></Cell>
+			<Cell><Data ss:Type="String">rrivhuwa@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Brett Morgan </Data></Cell>
+			<Cell><Data ss:Type="String">54 St Achilies 
+Pretoria Central 
+0002</Data></Cell>
+			<Cell><Data ss:Type="String">0783029324</Data></Cell>
+			<Cell><Data ss:Type="String">bmorgan@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">John Doe</Data></Cell>
+			<Cell><Data ss:Type="String">010 Void Street 
+Nowhere Place 
+0000</Data></Cell>
+			<Cell><Data ss:Type="String">0785643986</Data></Cell>
+			<Cell><Data ss:Type="String">johndoe@nowhere.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Sanele Manyela</Data></Cell>
+			<Cell><Data ss:Type="String">74736 New Life 
+Reeston 
+East London</Data></Cell>
+			<Cell><Data ss:Type="String">0793050637</Data></Cell>
+			<Cell><Data ss:Type="String">smanyela44@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Sarah Thomas</Data></Cell>
+			<Cell><Data ss:Type="String">12 Asgard Ave. 
+Upper Realm </Data></Cell>
+			<Cell><Data ss:Type="String">0823476898</Data></Cell>
+			<Cell><Data ss:Type="String">sarahThor@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Frank Brown </Data></Cell>
+			<Cell><Data ss:Type="String">14 Chris Ocean Drive 
+Sandton 
+Johannesburg 
+2180</Data></Cell>
+			<Cell><Data ss:Type="String">0754635678</Data></Cell>
+			<Cell><Data ss:Type="String">brwonfrank@yahoo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Mike Davis</Data></Cell>
+			<Cell><Data ss:Type="String">7 Viola Street  
+Johannesburg 
+2180</Data></Cell>
+			<Cell><Data ss:Type="String">0785643423</Data></Cell>
+			<Cell><Data ss:Type="String">mikedavis@yahoo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Anne Bolt</Data></Cell>
+			<Cell><Data ss:Type="String">17 Gordon Str 
+Northcliff 
+Johannesburg 
+2165</Data></Cell>
+			<Cell><Data ss:Type="String">0634567324</Data></Cell>
+			<Cell><Data ss:Type="String">annebolt@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="String">Lucky Makhanya</Data></Cell>
+			<Cell><Data ss:Type="String">06 Kanana Str. 
+Houghton 
+Johannesburg 
+2199</Data></Cell>
+			<Cell><Data ss:Type="String">0784532675</Data></Cell>
+			<Cell><Data ss:Type="String">luckyM@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="String">Kabelo Mvelo</Data></Cell>
+			<Cell><Data ss:Type="String">75 King Road 
+Berea 
+Durban 
+3001</Data></Cell>
+			<Cell><Data ss:Type="String">0745647951</Data></Cell>
+			<Cell><Data ss:Type="String">kmvelo45@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="String">Manelisi Ntantani</Data></Cell>
+			<Cell><Data ss:Type="String">13 Second Avenue 
+Rivonia 
+Johannesburg 
+2180</Data></Cell>
+			<Cell><Data ss:Type="String">0739256197</Data></Cell>
+			<Cell><Data ss:Type="String">mntantani76@mail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="String">Thapelo Moshoeshoe</Data></Cell>
+			<Cell><Data ss:Type="String">100 Main Road 
+Finger Village 
+Grahamstown
+7165</Data></Cell>
+			<Cell><Data ss:Type="String">0786854464</Data></Cell>
+			<Cell><Data ss:Type="String">tMosheX2@yahoo.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="String">Ntombo Lwa</Data></Cell>
+			<Cell><Data ss:Type="String">14 St Georges Rd. 
+Southernwood 
+East London 
+5201</Data></Cell>
+			<Cell><Data ss:Type="String">0816377367</Data></Cell>
+			<Cell><Data ss:Type="String">lwa2020@mail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="String">Buchule Biyela</Data></Cell>
+			<Cell><Data ss:Type="String">33 Deveraux Ave 
+Vincent 
+East London 
+5202</Data></Cell>
+			<Cell><Data ss:Type="String">0753635782</Data></Cell>
+			<Cell><Data ss:Type="String">buchule@bsquared.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">16</Data></Cell>
+			<Cell><Data ss:Type="String">Gavin Manne</Data></Cell>
+			<Cell><Data ss:Type="String">31 St. James Rd. 
+Southernwoord 
+East London 
+5201</Data></Cell>
+			<Cell><Data ss:Type="String">0782456189</Data></Cell>
+			<Cell><Data ss:Type="String">gavinm67@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">17</Data></Cell>
+			<Cell><Data ss:Type="String">Paul Madison</Data></Cell>
+			<Cell><Data ss:Type="String">56 St Marks Rd. 
+Southernwood 
+East London 
+5201</Data></Cell>
+			<Cell><Data ss:Type="String">0726716868</Data></Cell>
+			<Cell><Data ss:Type="String">pmadison987@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">18</Data></Cell>
+			<Cell><Data ss:Type="String">Miranda Mgqibelo</Data></Cell>
+			<Cell><Data ss:Type="String">12 Gately Str. 
+Southernwood 
+East London 
+5201</Data></Cell>
+			<Cell><Data ss:Type="String">0786287618</Data></Cell>
+			<Cell><Data ss:Type="String">mirandamgqibelo@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">19</Data></Cell>
+			<Cell><Data ss:Type="String">Ian McMurray</Data></Cell>
+			<Cell><Data ss:Type="String">88 Beach Drive 
+Quigney 
+East London 
+5200</Data></Cell>
+			<Cell><Data ss:Type="String">0735624576</Data></Cell>
+			<Cell><Data ss:Type="String">iMcmurray01@gmail.com</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="String">Indiana Jones</Data></Cell>
+			<Cell><Data ss:Type="String">656 Indiana 
+Mill Park drive 
+8369</Data></Cell>
+			<Cell><Data ss:Type="String">0738268169</Data></Cell>
+			<Cell><Data ss:Type="String">jonesexplores@adventure.org</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
