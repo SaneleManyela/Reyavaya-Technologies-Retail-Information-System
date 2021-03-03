@@ -22,7 +22,6 @@ import javax.swing.border.BevelBorder;
 public class clsGUIDesignMethods {
     
     // This method gives the interfaces their etherial white background,
-    // colonisation has nothing to do with it
     public JPanel mPreparePanel(JPanel jpPanel) {
         jpPanel.setOpaque(true);
         jpPanel.setBackground(new Color(255, 255, 255));
